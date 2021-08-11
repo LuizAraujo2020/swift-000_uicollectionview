@@ -40,6 +40,13 @@
 		6FB1109526C41EB80010CB0E = {
 			isa = PBXGroup;
 			children = (
+				6FB110A126C41EB90010CB0E /* AppDelegate.swift */,
+				6FB110A326C41EB90010CB0E /* SceneDelegate.swift */,
+				6FB110A526C41EB90010CB0E /* ViewController.swift */,
+				6FB110AD26C41EBB0010CB0E /* Assets.xcassets */,
+				6FB110AF26C41EBB0010CB0E /* LaunchScreen.storyboard */,
+				6FB110B226C41EBB0010CB0E /* Info.plist */,
+				6FB110AA26C41EB90010CB0E /* swift_000_uicollectionview.xcdatamodeld */,
 				6FB110A026C41EB90010CB0E /* swift-000_uicollectionview */,
 				6FB1109F26C41EB90010CB0E /* Products */,
 			);
@@ -56,13 +63,6 @@
 		6FB110A026C41EB90010CB0E /* swift-000_uicollectionview */ = {
 			isa = PBXGroup;
 			children = (
-				6FB110A126C41EB90010CB0E /* AppDelegate.swift */,
-				6FB110A326C41EB90010CB0E /* SceneDelegate.swift */,
-				6FB110A526C41EB90010CB0E /* ViewController.swift */,
-				6FB110AD26C41EBB0010CB0E /* Assets.xcassets */,
-				6FB110AF26C41EBB0010CB0E /* LaunchScreen.storyboard */,
-				6FB110B226C41EBB0010CB0E /* Info.plist */,
-				6FB110AA26C41EB90010CB0E /* swift_000_uicollectionview.xcdatamodeld */,
 			);
 			path = "swift-000_uicollectionview";
 			sourceTree = "<group>";
