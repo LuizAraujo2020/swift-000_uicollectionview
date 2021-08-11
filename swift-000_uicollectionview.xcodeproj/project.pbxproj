@@ -47,7 +47,6 @@
 				6FB110AF26C41EBB0010CB0E /* LaunchScreen.storyboard */,
 				6FB110B226C41EBB0010CB0E /* Info.plist */,
 				6FB110AA26C41EB90010CB0E /* swift_000_uicollectionview.xcdatamodeld */,
-				6FB110A026C41EB90010CB0E /* swift-000_uicollectionview */,
 				6FB1109F26C41EB90010CB0E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,13 +57,6 @@
 				6FB1109E26C41EB90010CB0E /* swift-000_uicollectionview.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		6FB110A026C41EB90010CB0E /* swift-000_uicollectionview */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "swift-000_uicollectionview";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
