@@ -28,7 +28,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         
         window = UIWindow(frame: windowScene.coordinateSpace.bounds)
         
-        let mainVC = ViewController()
+        let layout = UICollectionViewFlowLayout()
+        let mainVC = ViewController(collectionViewLayout: layout)
         
         window?.windowScene = windowScene
         window?.rootViewController = mainVC
